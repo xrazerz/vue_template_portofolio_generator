@@ -1,0 +1,13 @@
+.button-widget {
+  padding: 8px;
+  border: 0;
+  border-radius: 4px;
+
+  span {
+    &:hover {
+      background: #00000072;
+      display: inline-block;
+      cursor: text;
+    }
+  }
+}

@@ -1,0 +1,15 @@
+.service-2 {
+  padding: 64px 8px;
+  background: #eee;
+  .service {
+    border-radius: 16px;
+    border: 1px solid #eee;
+    background: #fff;
+    img {
+      border-radius: 16px 16px 0 0;
+    }
+    .content {
+      padding: 32px;
+    }
+  }
+}
